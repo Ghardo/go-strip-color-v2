@@ -1,0 +1,9 @@
+{
+    "app_name": "ArduinoStripColorChanger",
+    "icon_path_darwin": "resources/icon.icns",
+    "icon_path_linux": "resources/icon.png",
+    "icon_path_windows": "resources/icon.ico",
+    "version_astilectron": "0.37.0",
+    "version_electron": "8.2.0"
+
+  }

@@ -1,0 +1,6 @@
+__debug_bin
+output/
+vue/node_modules/
+resources/app/
+bind_windows_amd64.go
+windows.syso
